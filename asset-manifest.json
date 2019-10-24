@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/capwiz/static/css/main.835e0009.chunk.css",
+    "main.js": "/capwiz/static/js/main.ddb3ba0e.chunk.js",
+    "main.js.map": "/capwiz/static/js/main.ddb3ba0e.chunk.js.map",
+    "runtime-main.js": "/capwiz/static/js/runtime-main.e47b5a70.js",
+    "runtime-main.js.map": "/capwiz/static/js/runtime-main.e47b5a70.js.map",
+    "static/js/2.9742864d.chunk.js": "/capwiz/static/js/2.9742864d.chunk.js",
+    "static/js/2.9742864d.chunk.js.map": "/capwiz/static/js/2.9742864d.chunk.js.map",
+    "index.html": "/capwiz/index.html",
+    "precache-manifest.1606edf879913fb626b9a35871d72e97.js": "/capwiz/precache-manifest.1606edf879913fb626b9a35871d72e97.js",
+    "service-worker.js": "/capwiz/service-worker.js",
+    "static/css/main.835e0009.chunk.css.map": "/capwiz/static/css/main.835e0009.chunk.css.map",
+    "static/media/logo.png": "/capwiz/static/media/logo.f37d995e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47b5a70.js",
+    "static/js/2.9742864d.chunk.js",
+    "static/css/main.835e0009.chunk.css",
+    "static/js/main.ddb3ba0e.chunk.js"
+  ]
+}
