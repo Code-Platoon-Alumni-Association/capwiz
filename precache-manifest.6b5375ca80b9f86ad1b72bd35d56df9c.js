@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44efc65b805ee12697be2d4115ea684e",
+    "revision": "09b7a5d47c23cc298b1578b6f73313d4",
     "url": "/capwiz/index.html"
   },
   {
