@@ -5,6 +5,9 @@
   "homepage": "https://code-platoon-alumni-association.github.io/capwiz/",
   "dependencies": {
     "gh-pages": "^2.1.1",
+    "install": "^0.13.0",
+    "node-sass": "^4.13.0",
+    "npm": "^6.12.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
